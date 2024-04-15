@@ -1,5 +1,10 @@
-### Hi there 👋
-
+## Hi, I'm Suzan 👋
+### A junior full stack developer
+- 🔭 I like to work on front end more and I like desining.
+- 👩‍💻 I’m currently learning developing web applications with C#.
+- 🌱 I like to learn new things.
+- 🤔 I'm looking forward to keep practicing what I have learned so far.
+- 📫 You can reach me on linkedIn for now.
 <!--
 **SuzanWebDeveloper/SuzanWebDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
