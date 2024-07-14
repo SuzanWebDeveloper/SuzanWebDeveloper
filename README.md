@@ -1,5 +1,5 @@
 ## Hi, I'm Suzan 👋
-### A junior full stack developer
+### A junior web developer
 - 🔭 I like to work on front end more and I like desining.
 - 👩‍💻 I’m currently learning developing web applications with C#.
 - 🌱 I like to learn new things.
